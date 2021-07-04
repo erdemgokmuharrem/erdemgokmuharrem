@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erdem</h1>
-<h3 align="center">Developer (24y) from Turkey,Kastamonu</h3>
+<h3 align="center">Developer (24y) from Turkey,Istanbul</h3>
 
 
 ### 🛠 Tech Stack

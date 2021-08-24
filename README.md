@@ -54,8 +54,8 @@
 
 </p>
 
-![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/erdemgokmuharrem/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/erdemgokmuharrem/github-stats-transparent/output/generated/languages.svg)
 
 
 

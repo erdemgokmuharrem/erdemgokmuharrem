@@ -47,7 +47,7 @@
 <p align="left">
 <a href="https://twitter.com/erdemgmo" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://stackoverflow.com/users/10633039/erdem-g%c3%b6kmuharremo%c4%9flu" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
-  <a href="https://www.linkedin.com/in/erdemgokmuharremoglu/" target="blank"><img align="center" src="![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a>
+ 
 
 </p>
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdemgokmuharrem&label=Profile%20views&color=0e75b6&style=flat" alt="erdemgokmuharrem" /> </p>
 
-<p align="left"> <a href="https://twitter.com/erdemgmo" target="blank"><img src="https://img.shields.io/twitter/follow/erdemgmo?logo=twitter&style=for-the-badge" alt="erdemgmo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/erdemdev_" target="blank"><img src="https://img.shields.io/twitter/follow/erdemgmo?logo=twitter&style=for-the-badge" alt="erdemgmo" /></a> </p>
 
 - 💬 Ask me about **React,JavaScript,Typescript,.NET**
 
